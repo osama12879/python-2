@@ -78,7 +78,7 @@ def home():
                     display: inline-block;
                     margin-top: 15px;
                     text-decoration: none;
-                    color: #333;
+                    color: #335;
                     font-weight: bold;
                 }
             </style>
