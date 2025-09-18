@@ -127,7 +127,7 @@ def list_users():
     <html>
     <head>
         <meta charset="UTF-8">
-        <title>Osii</title>
+        <title>Osiiiiiiii</title>
         <style>
             body { font-family: Arial; background: #f0f0f0; padding: 20px; }
             h1 { color: #333; }
